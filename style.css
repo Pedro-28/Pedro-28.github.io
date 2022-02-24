@@ -1,0 +1,17 @@
+body{
+    background-color:#203D6B;
+    font-family:Shadows Into Light;
+    font-size: 30px;
+}
+
+#Foto{
+    border-radius: 100%;
+}
+a{
+    color: white;
+}
+
+p{
+    background-color:#4F6384;
+    padding: 20px;
+}
